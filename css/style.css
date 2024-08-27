@@ -113,6 +113,7 @@ body {
   width: 280px;
   border-radius: 50%;
   object-fit: cover;
+  background: white;
 }
 
 .hero h1, .hero h2, .hero p {
