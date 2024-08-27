@@ -10,6 +10,7 @@ body {
   color: #333;
   overflow-x: hidden;
   padding-top: 20px; 
+  background-color: black;
 }
 
 .container {
@@ -19,7 +20,7 @@ body {
 }
 
 .navbar {
-  background: rgb(153, 47, 253);
+  background: #748B6F;
   color: #fff;
   padding: 1rem 0;
   position: fixed;
@@ -31,7 +32,7 @@ body {
 }
 
 .navbar:hover {
-  background-color: rgb(125, 25, 200);
+  background-color:#748B6F;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
 }
 
@@ -44,14 +45,14 @@ body {
 
 .navbar .logo {
   font-size: 1.75rem;
-  color: #fff;
+  color:#ffff;
   text-decoration: none;
   font-weight: 600;
   transition: color 0.3s ease;
 }
 
 .navbar .logo:hover {
-  color: rgb(240, 240, 240);
+  color:#E0475B;
 }
 
 .nav-links {
@@ -65,7 +66,7 @@ body {
 }
 
 .nav-links a {
-  color: #fff;
+  color:#ffff;
   text-decoration: none;
   font-size: 1.125rem;
   font-weight: 600;
@@ -73,7 +74,7 @@ body {
 }
 
 .nav-links a:hover {
-  color: rgb(240, 240, 240);
+  color:#E0475B;
   transform: translateY(-3px);
 }
 
@@ -88,7 +89,7 @@ body {
 }
 
 .menu-toggle:hover {
-  color: rgb(240, 240, 240);
+  color:#E0475B;
 }
 
 .hero {
@@ -108,8 +109,8 @@ body {
 }
 
 .profile-one {
-  height: 160px;
-  width: 160px;
+  height: 280px;
+  width: 280px;
   border-radius: 50%;
   object-fit: cover;
 }
@@ -121,19 +122,19 @@ body {
 .hero h1 {
   font-size: 2.25rem;
   font-weight: 600;
-  color: rgb(153, 47, 253);
+  color:#E0475B;;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
   transition: transform 0.3s ease, color 0.3s ease;
 }
 
 .hero h1:hover {
   transform: scale(1.1);
-  color: rgb(103, 27, 173);
+  color: #E0475B;
 }
 
 .hero h2 {
   font-size: 1.75rem;
-  color: rgb(153, 47, 253);
+  color: white;
 }
 
 .hero p {
@@ -141,14 +142,15 @@ body {
   color: rgb(100, 100, 100);
   transition: color 0.3s ease;
   max-width: 90%;
+  color:#E0475B;
 }
 
 .hero p:hover {
-  color: rgb(153, 47, 253);
+  color:#E0475B; 
 }
 
 .download-btn {
-  background: rgb(153, 47, 253);
+  background:#E0475B;
   color: #fff;
   border: none;
   margin-top: 15px;
@@ -160,10 +162,10 @@ body {
 }
 
 .download-btn:hover {
-  background:rgb(103, 27, 173);
+  background:#E0475B;
 }
 
 .download-btn:active {
-  background-color: rgb(103, 27, 173);
+  background-color:#E0475B;
   transform: scale(0.98);
 }

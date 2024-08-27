@@ -16,6 +16,7 @@
   font-size: 1.3rem;
   margin-bottom: 5px;
   padding: 2px;
+  color:#E0475B;
 }
 
 .contact-container h2:hover {
@@ -25,6 +26,7 @@
 .contact-container p {
   font-size: 1.1rem;
   margin-bottom: 20px;
+  color:#748B6F;
 }
 
 .contact-container ul {
@@ -50,6 +52,7 @@
   color: #333;
   font-weight: bold;
   margin-left: 10px;
+  color:#ffff;
 }
 
 .contact-container a:hover {
@@ -57,7 +60,7 @@
 }
 
 .social-icons {
-  color: black;
+  color:#E0475B;
 }
 
 .contact-form {
@@ -73,6 +76,7 @@
 .contact-form label {
   font-size: 14px;
   margin-bottom: 4px;
+  color:#ffff;
 }
 
 .contact-form input,
@@ -90,9 +94,9 @@
 
 .contact-form button {
   padding: 8px 16px;
-  background-color: rgb(153, 47, 253);
+  background-color:#E0475B;
   color: #fff;
-  border: 2px solid rgb(153, 47, 253);
+  border: 2px solid #E0475B;
   border-radius: 4px;
   cursor: pointer;
   font-size: 14px;
@@ -100,8 +104,8 @@
 }
 
 .contact-form button:hover {
-  background-color: rgb(123, 36, 203);
-  border-color: rgb(123, 36, 203);
+  background-color:#E0475B;
+  border-color:#E0475B;
 }
 
 .contact-section {

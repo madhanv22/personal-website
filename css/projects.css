@@ -40,7 +40,7 @@
 .links a {
   text-decoration: none;
   color: white;
-  background:rgb(153, 47, 253);
+  background:#E0475B;
   padding: 5px 10px;
   border-radius: 3px;
   margin-right: 10px;
@@ -48,7 +48,7 @@
 
 .links a:hover {
   text-decoration: solid;
-  background: rgba(153, 47, 253, 0.4);
+  background:#E0475B;
   color: black;
 }
 
@@ -64,4 +64,5 @@ h2 {
   margin: 0 0 20px;
   padding: 20px 0;
   text-align: center;
+  color:#E0475B;
 }

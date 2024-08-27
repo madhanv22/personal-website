@@ -5,8 +5,13 @@
   }
 
   .profile-one {
-    height: 140px;
-    width: 140px;
+    height: 280px;
+    width: 280px;
+  }
+
+  .profile-two {
+    height: 280px;
+    width: 280px;
   }
 
   .hero h1 {
@@ -36,6 +41,10 @@
     width: 100%;
     border-radius: 0 0 5px 5px;
     transition: 0.5s;
+  }
+
+  .nav-links a {
+    color:#E0475B;
   }
 
   .nav-links.active {
