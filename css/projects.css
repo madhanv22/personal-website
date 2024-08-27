@@ -40,15 +40,15 @@
 .links a {
   text-decoration: none;
   color: white;
-  background: rgb(153, 47, 253);
+  background:rgb(153, 47, 253);
   padding: 5px 10px;
   border-radius: 3px;
   margin-right: 10px;
 }
 
 .links a:hover {
-  text-decoration: underline;
-  background: rgba(255, 255, 255, 0.4);
+  text-decoration: solid;
+  background: rgba(153, 47, 253, 0.4);
   color: black;
 }
 
